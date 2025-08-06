@@ -8,7 +8,7 @@ import { ContactoService } from '../../services/contacto.service';
   imports: [FormsModule],
   providers: [ContactoService],
   templateUrl: './contacto.component.html',
-  styleUrls: ['./contacto.component.css'] // Puedes dejarlo vacío si no tienes estilos aún
+  styleUrls: ['./contacto.component.css'] 
 })
 export class ContactoComponent {
   nombre = '';

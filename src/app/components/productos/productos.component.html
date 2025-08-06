@@ -1,12 +1,24 @@
+<div class="container mx-auto px-4 py-8">
+  <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Lista de Productos</h2>
 
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+    <div
+      *ngFor="let producto of productos"
+      class="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300"
+    >
+      <img
+        [src]="producto.imagen"
+        alt="{{ producto.nombre }}"
+        class="w-full h-48 object-cover"
+      />
 
-<h2>Lista de productos</h2>
-<div class="galeria">
-  <div *ngFor="let producto of productos" class="card">
-    <img [src]="producto.imagen" alt="{{ producto.nombre }}">
-    <h3>{{ producto.nombre }}</h3>
-    <p>{{ producto.descripcion }}</p>
-    <p><strong>${{ producto.precio }}</strong></p>
-    
+      <div class="p-4">
+        <h3 class="text-lg font-semibold text-gray-700 mb-2">
+          {{ producto.nombre }}
+        </h3>
+        <p class="text-gray-600 text-sm mb-2">{{ producto.descripcion }}</p>
+        <p class="text-indigo-600 font-bold text-lg">${{ producto.precio }}</p>
+      </div>
+    </div>
   </div>
 </div>
