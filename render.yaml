@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: tienda-app
+    env: static
+    staticPublishPath: dist/tienda-app
+    buildCommand: npm install && npm run build
