@@ -1,0 +1,24 @@
+.redes-sociales {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.redes-sociales ul {
+  list-style: none;
+  padding: 0;
+}
+
+.redes-sociales li {
+  margin: 10px 0;
+}
+
+.redes-sociales a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #0066cc;
+  transition: color 0.3s;
+}
+
+.redes-sociales a:hover {
+  color: #ff4081;
+}

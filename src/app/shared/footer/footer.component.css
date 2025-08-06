@@ -1,0 +1,21 @@
+footer {
+  margin-top: 40px;
+  text-align: center;
+  padding: 1rem;
+  background-color: #f4f4f4;
+  border-top: 1px solid #ccc;
+}
+
+.footer-nav {
+  margin-top: 10px;
+}
+
+.footer-nav a {
+  margin: 0 10px;
+  color: #004080;
+  text-decoration: none;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,102 @@
+{
+  "productos": [
+    {
+      "id": "3",
+      "nombre": "Trunks con espada en la piedra",
+      "descripcion": "Figura de Trunks del futuro con su emblemática espada clavada en la piedra.",
+      "precio": 21,
+      "imagen": "https://i.postimg.cc/R02WRdMy/IMG-8914-10a36012-55e0-4864-a19e-16c1ebdef66d-200x.webp"
+    },
+    {
+      "id": "4",
+      "nombre": "Nezuko Kamado",
+      "descripcion": "Figura detallada de Nezuko, la hermana demonio de Tanjiro, en pose protectora dentro de su caja.",
+      "precio": 10,
+      "imagen": "https://i.postimg.cc/bv17C0kd/IMG-8916-3304f95f-5534-4476-b785-b0c2adae4b1d-200x.avif"
+    },
+    {
+      "id": "5",
+      "nombre": "Rem",
+      "descripcion": "Figura de Rem, personaje de Re:Zero, con su característico vestido de sirvienta y expresión serena.",
+      "precio": 10,
+      "imagen": "https://i.postimg.cc/HkznssHk/IMG-9004-200x.avif"
+    },
+    {
+      "id": "6",
+      "nombre": "Kibutsuji Muzan",
+      "descripcion": "Figura de Kibutsuji Muzan, el villano principal de Kimetsu no Yaiba, con su elegante atuendo oscuro.",
+      "precio": 4,
+      "imagen": "https://i.postimg.cc/y60V8YyC/IMG-8998-155e7346-61b6-406c-838a-aed0797bc70d-200x.webp"
+    },
+    {
+      "id": "7",
+      "nombre": "Harry Potter",
+      "descripcion": "Figura de Harry Potter con su varita y uniforme de Hogwarts, listo para lanzar un hechizo.",
+      "precio": 12.5,
+      "imagen": "https://i.postimg.cc/xCY6GRhR/IMG-8990-200x.avif"
+    },
+    {
+      "id": "8",
+      "nombre": "Toy Story",
+      "descripcion": "Mini figura basada en personajes de Toy Story, ideal para los fans de Woody y Buzz Lightyear.",
+      "precio": 12.5,
+      "imagen": "https://i.postimg.cc/SsyGYKY1/IMG-8984-7cb9e400-6b98-444c-b9a1-51a8548cfb20-200x.avif"
+    },
+    {
+      "id": "9",
+      "nombre": "Kanroji Mitsuri",
+      "descripcion": "Figura de Mitsuri Kanroji, la pilar del amor, con su característica expresión dulce y su katana.",
+      "precio": 8,
+      "imagen": "https://i.postimg.cc/SsWxGp1Y/IMG-8982-200x.webp"
+    },
+    {
+      "id": "10",
+      "nombre": "Muñeco Goku",
+      "descripcion": "Figura clásica de Goku en posición de combate, ideal para coleccionistas de Dragon Ball.",
+      "precio": 15,
+      "imagen": "https://i.postimg.cc/qvTQHQMd/IMG-8975-200x.avif"
+    },
+    {
+      "id": "11",
+      "nombre": "Majin Buu en moto",
+      "descripcion": "Figura divertida de Majin Buu montado en una motocicleta, mezcla de humor y acción.",
+      "precio": 8,
+      "imagen": "https://i.postimg.cc/nLVkCzDR/IMG-8969-200x.avif"
+    },
+    {
+      "id": "12",
+      "nombre": "figuras naruto",
+      "descripcion": "Pack de figuras inspiradas en Naruto y sus personajes más icónicos, como Sasuke y Kakashi.",
+      "precio": 22,
+      "imagen": "https://i.postimg.cc/J4bcxJ3Y/IMG-8957-200x.avif"
+    },
+    {
+      "id": "13",
+      "nombre": "Coleccion One Piece",
+      "descripcion": "Colección de figuras de One Piece con personajes como Luffy, Zoro y Nami.",
+      "precio": 15,
+      "imagen": "https://i.postimg.cc/26shF81f/IMG-8949-200x.avif"
+    },
+    {
+      "id": "14",
+      "nombre": "Sheilong",
+      "descripcion": "Figura del dragón Shenlong, invocado con las esferas del dragón para conceder deseos.",
+      "precio": 21,
+      "imagen": "https://i.postimg.cc/jqHDHyB3/IMG-8918-200x.webp"
+    },
+    {
+      "id": "15",
+      "nombre": "Cell en Moto",
+      "descripcion": "Figura de Cell, el villano de Dragon Ball Z, conduciendo una moto en una divertida versión.",
+      "precio": 8,
+      "imagen": "https://i.postimg.cc/y819TG8W/IMG-8917-200x.avif"
+    },
+    {
+      "id": "f087",
+      "nombre": "",
+      "descripcion": "",
+      "precio": 0,
+      "imagen": ""
+    }
+  ]
+}

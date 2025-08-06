@@ -1,0 +1,28 @@
+<section class="p-6 max-w-lg mx-auto">
+  <h2 class="text-2xl font-semibold mb-4">Contáctanos</h2>
+
+  <p class="mb-4">Realizamos <strong>envíos a nivel nacional</strong>.</p>
+  <a
+  href="https://wa.me/593992846463?text=Hola%20quiero%20más%20información"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="inline-block mt-4 bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600"
+>
+  Escríbenos por WhatsApp
+</a>
+
+  <p class="mb-6"><strong>Seguridad:</strong> MAHEN Tienda Web es una tienda 100% segura y confiable.</p>
+
+  <form (ngSubmit)="enviar()">
+    <label class="block mb-2">Nombre:</label>
+    <input class="border w-full mb-4 p-2" type="text" [(ngModel)]="nombre" name="nombre" required />
+
+    <label class="block mb-2">Correo:</label>
+    <input class="border w-full mb-4 p-2" type="email" [(ngModel)]="correo" name="correo" required />
+
+    <label class="block mb-2">Mensaje:</label>
+    <textarea class="border w-full mb-4 p-2" [(ngModel)]="mensaje" name="mensaje" required></textarea>
+
+    <button class="bg-blue-500 text-white px-4 py-2" type="submit">Enviar</button>
+  </form>
+</section>
